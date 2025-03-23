@@ -95,3 +95,7 @@ Consider regional warehouses in high-demand areas to minimize delays.
 Implement real-time order tracking and automated dispatching to improve delivery rates.
 
 Reduce backorders by ensuring alternative supplier partnerships for critical stock.
+![SCHEMA FMCG SUPPLY CHAIN DATASETS](https://github.com/user-attachments/assets/e6b1d802-c1e1-4cf4-8480-60975f3ff027)
+
+![Screenshot 2025-03-23 162211](https://github.com/user-attachments/assets/80e6191a-1f48-402d-ba23-1c52530b1c0c)
+
